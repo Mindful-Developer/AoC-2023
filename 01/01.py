@@ -1,4 +1,4 @@
-with open('in.txt', 'r') as f:
+with open('in', 'r') as f:
     lines = f.readlines()
 
 nums = {
